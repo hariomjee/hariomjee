@@ -1,5 +1,5 @@
 - 👋 Hi,  
-          I am hariom and i’m a Full stack developer.Currently pursuing master's degree and busy in learning.
+        :blush:  I am hariom and i’m a Full stack developer.Currently pursuing master's degree and busy in learning.
 
 
 <!---
