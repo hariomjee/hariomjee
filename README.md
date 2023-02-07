@@ -1,6 +1,5 @@
 - 👋 Hi,  
-        :blush:  I am hariom and i’m a Full stack developer.Currently pursuing master's degree and busy in learning.
-
+        :blush:  I am hariom and currently working as a java developer at Shrine Soft Ahmedabad,Gujarat.
 
 <!---
 hariomjee/hariomjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
