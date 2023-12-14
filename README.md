@@ -1,5 +1,5 @@
 - 👋 Hi,  
-        :blush:  I am hariom and currently working as a java developer at Shrine Software .
+        :blush:  I am hariom and currently working as a Software Developer at Shrine Software .
 
 <!---
 hariomjee/hariomjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
